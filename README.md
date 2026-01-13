@@ -1,2 +1,2 @@
-# Fluffy-Pancake
-Web Design
+# fluffy pancakes
+Web Design Class
