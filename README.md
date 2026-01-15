@@ -1,1 +1,1 @@
-# Fluffy pancakes
+# Fluffy Pancakes
