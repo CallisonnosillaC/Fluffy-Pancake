@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Fluffy Pancakes
 
 <ul>
@@ -6,4 +5,3 @@
 <ul></ul>
 =======
 # Fluffy-Pancake
->>>>>>> 3f48c2db836a3c1a051502da6489f91014142a40
