@@ -1,4 +1,4 @@
-# Fluffy Pancakes
+# Fluffy-Pancake
 
 <ul>
     <li><a href="Fluffy_pancakes_HTML/index.html" target="_blank">Fluffy_pancakes_HTML"</a></li>
