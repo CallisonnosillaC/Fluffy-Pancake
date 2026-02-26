@@ -21,10 +21,6 @@ main img {
     border-radius: 50px;
 }
 
-a:href {
-    text-align: center;
-}
-
 h1 {
   font-family: "Black Han Sans", sans-serif;
   font-weight: 400;
